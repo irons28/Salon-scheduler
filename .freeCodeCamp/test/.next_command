@@ -65,3 +65,7 @@ touch salon.sh
 chmod +x salon.sh
 ./salon.sh
 ./salon.sh
+touch salon.sql
+SELECT examples.txt salon.sh salon.sql FROM services
+git status
+git add .
